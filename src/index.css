@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.bg-container {
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.submit-button {
+  border: 0;
+  border-radius: 0.8rem;
+  height: 4.7rem;
+  width: 17.2rem;
+  background-color: #ffc23e;
+  font-size: 1.6rem;
+  font-family: sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.content-container{
+  text-align: center;
+}
+.heading{
+  color: #eca204;
+  font-family: sans-serif;
+}
+
+.export-button {
+  margin-top: 1rem;
+  border: 0;
+  border-radius: 0.8rem;
+  height: 3.5rem;
+  width: 10rem;
+  background-color: #ffc23e;
+  font-size: 1.4rem;
+  font-family: "SF Pro Display", sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
