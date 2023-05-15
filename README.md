@@ -32,16 +32,15 @@ npm start
 ```
 The app will be available at `http://localhost:3000` in your web browser.
 
-## Built With
 
 
 ## Usage
 
-1. Click the "Submit" button to fetch word frequency data from a remote source.
+1. Click on the "Submit" button to fetch word frequency data from `https://www.terriblytinytales.com/test.txt`.
 2. The top 20 most frequent words will be displayed in a bar chart.
-3. Click the "Export" button to download a CSV file containing the word histogram data.
+3. Click the "Export" button to download a CSV file containing the histogram data.
 
-## Technologies Used
+## Built With
 
 - React
 - Recharts
