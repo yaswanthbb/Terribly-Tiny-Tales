@@ -7,7 +7,7 @@ This project is a web application that analyzes the frequency of words in a give
 ## Prerequisites
 To run the app locally, you will need to have Node.js and npm installed on your computer.
 
-## Deployemnet Link
+## Deployment Link
 
 The project is deployed and can be accessed live at https://yaswanth-terribly-tiny-tales.netlify.app/
 ## Installing
